@@ -2,7 +2,7 @@
 
 CS at the University of Washington ('29). I like working close to the hardware: kernels, GPUs, emulators, and robots.
 
-[LinkedIn](https://www.linkedin.com/in/advaithvecham/) · [advaiv2@cs.washington.edu](mailto:advaiv2@cs.washington.edu)
+[advaithvecham.fly.dev](https://advaithvecham.fly.dev) · [LinkedIn](https://www.linkedin.com/in/advaithvecham/) · [advaiv2@cs.washington.edu](mailto:advaiv2@cs.washington.edu)
 
 ### now
 
