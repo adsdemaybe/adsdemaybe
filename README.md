@@ -9,6 +9,7 @@ CS at the University of Washington ('29). I like working close to the hardware: 
 
 ### now
 
+- **ARC Prize 2026 / ARC-AGI-3** ([leaderboard](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/leaderboard) · [kaggle: mellamoa](https://www.kaggle.com/mellamoa)). ARC-AGI-3 tests agents on interactive games they've never seen, with no instructions. **I'm currently 26th of 3,445 teams (as of Sep 28, 2026).** I'm building an agent harness for it. I can't share the notebook or code while the competition is still running.
 - **Linux kernel, Rust for Linux** ([fork](https://github.com/adsdemaybe/linux/tree/rust-next) · [regulator.rs](https://github.com/torvalds/linux/blob/master/rust/kernel/regulator.rs) · [rust-for-linux list](https://lore.kernel.org/rust-for-linux/)). I'm adding safe `Regulator` methods for current limit, mode, and load on top of the C `regulator_*` API. The patches go through LKML review.
 
 ### projects
