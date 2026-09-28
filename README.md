@@ -1,4 +1,7 @@
-<img src="assets/header.svg" alt="Advaith Vecham" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="advaith vecham" width="600">
+</picture>
 
 CS at the University of Washington ('29). I like working close to the hardware: kernels, GPUs, emulators, and robots.
 

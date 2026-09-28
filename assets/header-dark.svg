@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 56px; fill: #e6edf3; }
+  .prompt { fill: #7d8590; }
+  .cursor { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<text x="4" y="70" xml:space="preserve"><tspan class="prompt">$ </tspan>advaith vecham<tspan class="cursor">█</tspan></text>
+</svg>
